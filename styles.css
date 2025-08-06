@@ -346,6 +346,8 @@ p {
 .about-image {
     display: flex;
     justify-content: center;
+    height: auto;
+    width: 25px;
 }
 
 /* Mission Vision */
